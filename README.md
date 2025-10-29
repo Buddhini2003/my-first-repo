@@ -1,3 +1,3 @@
  # my-first-repo
-this is my first GitHub Repository
-I am Buddini Saubhagya . 
+This is my first GitHub Repository
+I am Buddini Saubhagya . I am undergraduate 
